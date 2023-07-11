@@ -12,3 +12,4 @@ SimpleBackup is a Python-based file backup tool that allows you to back up files
 - Add a feature to restore files from the backup.
 - Add a feature to schedule backups.
 - Add a feature to encrypt the backed-up files.
+- GUI implementation.
